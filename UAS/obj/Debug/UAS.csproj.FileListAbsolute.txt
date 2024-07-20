@@ -1,0 +1,7 @@
+D:\Kuliah\Semes2\Pemrograman\UAS\UAS\bin\Debug\UAS.exe.config
+D:\Kuliah\Semes2\Pemrograman\UAS\UAS\bin\Debug\UAS.exe
+D:\Kuliah\Semes2\Pemrograman\UAS\UAS\bin\Debug\UAS.pdb
+D:\Kuliah\Semes2\Pemrograman\UAS\UAS\obj\Debug\UAS.csproj.AssemblyReference.cache
+D:\Kuliah\Semes2\Pemrograman\UAS\UAS\obj\Debug\UAS.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semes2\Pemrograman\UAS\UAS\obj\Debug\UAS.exe
+D:\Kuliah\Semes2\Pemrograman\UAS\UAS\obj\Debug\UAS.pdb
